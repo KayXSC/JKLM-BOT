@@ -1,0 +1,18 @@
+{
+  "name": "tu-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node tuArchivo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "node-fetch": "^2.6.1",
+    "readline": "^1.3.0"
+  }
+}
