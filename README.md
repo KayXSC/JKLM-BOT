@@ -1,4 +1,4 @@
-BOT JKLM QUE AUTOCOMPLETA PALABRAS
+<b>BOT JKLM QUE AUTOCOMPLETA PALABRAS</b>
 
 - Paso numero 1, abrir terminal y navegar hasta donde tengas el directorio que te has descargado
 - Paso numero 2, ejecuta el comando "npm install"
